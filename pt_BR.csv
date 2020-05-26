@@ -3959,7 +3959,7 @@ is now <strong>Active</strong>.,module,Magento_Company
 Once you login, you will be able to place orders on behalf of your company,module,Magento_Company
 and use other B2B features.",module,Magento_Company
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Seu tipo de conta foi alterado de administrador da empresa para uma conta de usuário comum. Se você acha que isso é um erro, entre em contato com seu gerente para obter detalhes.",module,Magento_Company
-"%name,","%nome,",module,Magento_Company
+"%name,","%name,",module,Magento_Company
 "You have been assigned to %company_name as the Sales Representative.","Você foi atribuído a %company_name como representante de vendas.",module,Magento_Company
 "When you sign in to your account, you will be able to:","Ao fazer login na sua conta, você poderá:",module,Magento_Company
 "* View and manage company quotes in Admin Panel","* Visualizar e gerenciar cotações da empresa no painel de administração",module,Magento_Company
